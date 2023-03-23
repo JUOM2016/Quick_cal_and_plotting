@@ -23,7 +23,7 @@ T = np.linspace(start=start, stop=stop, num=num, endpoint=True)
 F = (T-24.5)*(T+24.5+2*273.16)
 
 # values in microns or MHz
-freq = [191861940, 305316040]
+freq = [191791100, 304236970]
 wave = [1.550, 0.995]
 #empty lists for calculated values
 freqs = []
